@@ -1,6 +1,6 @@
 import time
 import threading
-from pyvirtual.simulators.drone.drone import Drone
+from pysimverse.simulators.drone.drone import Drone
 import zmq
 
 
